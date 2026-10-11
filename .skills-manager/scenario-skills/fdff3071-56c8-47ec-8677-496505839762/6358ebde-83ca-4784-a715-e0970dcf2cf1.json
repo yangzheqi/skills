@@ -4,7 +4,7 @@
   "skill_id": "6358ebde-83ca-4784-a715-e0970dcf2cf1",
   "sort_order": 7,
   "tools": {
-    "antigravity": false,
+    "antigravity": true,
     "claude_code": false,
     "codex": false,
     "gemini_cli": false,
