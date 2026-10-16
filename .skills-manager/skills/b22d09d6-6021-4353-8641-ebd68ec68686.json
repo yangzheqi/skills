@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b22d09d6-6021-4353-8641-ebd68ec68686",
+  "path": "colab-operator",
+  "path_key": "colab-operator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "googlecolab/google-colab-cli/colab-operator",
+    "subpath": "skills/colab-operator",
+    "branch": null
+  }
+}
