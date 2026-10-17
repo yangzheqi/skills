@@ -5,10 +5,10 @@
   "sort_order": 9,
   "tools": {
     "antigravity": true,
-    "claude_code": false,
+    "claude_code": true,
     "codex": false,
     "gemini_cli": false,
     "github_copilot": false,
-    "windsurf": true
+    "windsurf": false
   }
 }

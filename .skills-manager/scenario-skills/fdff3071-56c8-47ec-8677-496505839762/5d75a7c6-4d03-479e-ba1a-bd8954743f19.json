@@ -9,6 +9,6 @@
     "codex": false,
     "gemini_cli": false,
     "github_copilot": false,
-    "windsurf": true
+    "windsurf": false
   }
 }
