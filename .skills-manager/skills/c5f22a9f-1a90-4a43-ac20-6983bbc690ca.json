@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c5f22a9f-1a90-4a43-ac20-6983bbc690ca",
+  "path": "academic-pipeline",
+  "path_key": "academic-pipeline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "imbad0202/academic-research-skills/academic-pipeline",
+    "subpath": "academic-pipeline",
+    "branch": null
+  }
+}
