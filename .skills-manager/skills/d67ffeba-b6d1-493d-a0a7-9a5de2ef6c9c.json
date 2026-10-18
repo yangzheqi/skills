@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d67ffeba-b6d1-493d-a0a7-9a5de2ef6c9c",
+  "path": "sr-screener",
+  "path_key": "sr-screener",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "imbad0202/academic-research-skills/sr-screener",
+    "subpath": "sr-screener",
+    "branch": null
+  }
+}

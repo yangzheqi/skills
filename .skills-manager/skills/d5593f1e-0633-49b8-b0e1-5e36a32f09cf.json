@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d5593f1e-0633-49b8-b0e1-5e36a32f09cf",
+  "path": "deep-research",
+  "path_key": "deep-research",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "imbad0202/academic-research-skills/deep-research",
+    "subpath": "deep-research",
+    "branch": null
+  }
+}
