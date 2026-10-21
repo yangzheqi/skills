@@ -7,7 +7,7 @@
     "antigravity": true,
     "claude_code": false,
     "gemini_cli": true,
-    "github_copilot": true,
+    "github_copilot": false,
     "windsurf": true
   }
 }
