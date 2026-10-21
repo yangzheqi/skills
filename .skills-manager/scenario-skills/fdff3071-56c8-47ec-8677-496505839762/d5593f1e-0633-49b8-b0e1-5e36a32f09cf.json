@@ -5,7 +5,7 @@
   "sort_order": 2,
   "tools": {
     "antigravity": true,
-    "claude_code": false,
+    "claude_code": true,
     "gemini_cli": true,
     "github_copilot": false,
     "windsurf": true
