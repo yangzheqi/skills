@@ -8,6 +8,6 @@
     "claude_code": true,
     "gemini_cli": true,
     "github_copilot": false,
-    "windsurf": true
+    "windsurf": false
   }
 }
